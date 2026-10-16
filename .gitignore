@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+*.err
+cache/
+build.txt
+check.txt
+verify.txt
+~$*.xlsx
+*.xlsx
